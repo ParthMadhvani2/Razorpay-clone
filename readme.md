@@ -1,4 +1,11 @@
+#RazorPay Clone
+
 Building RAZORPAY clone using Tailwind CSS 
+
+
+[Live Preview](https://razorpaytailwind.vercel.app/)
+
+
 
 **Step 1:** [Download](https://github.com/thepranaygupta/html-tailwind-css-starter-pack/archive/refs/heads/main.zip) this repo as a zip
 
